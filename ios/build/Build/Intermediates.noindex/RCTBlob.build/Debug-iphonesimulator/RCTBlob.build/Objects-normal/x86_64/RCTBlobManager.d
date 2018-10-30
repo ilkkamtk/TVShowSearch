@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/node_modules/react-native/Libraries/Blob/RCTBlobManager.mm \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/node_modules/react-native/Libraries/Blob/RCTBlobManager.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworking.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTNetworkTask.h \
+  /Users/ilkkamtk/Documents/gitProjects/react-kurssi/TVShowSearch/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTWebSocketModule.h

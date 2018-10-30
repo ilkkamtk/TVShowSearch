@@ -1,0 +1,1 @@
+export const tvMazeApiUrl = 'http://api.tvmaze.com/';
